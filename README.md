@@ -1,8 +1,6 @@
-## ```"Decentralized Photo Social Media."```
+## ```"Decentralized Instagram"```
 
-![Video URL](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
+A decentralized app let you upload Photos similar to Instagram and let like the photos and most liked photos comes on the Top. 
+It uses the Ipfs to upload the Photos on blockchain.
 
-[Tutorial URL](https://www.youtube.com/watch?v=8rhueOcTu8k)
 
-## 🔧 Project Diagram:
-![Project Diagram](https://i.gyazo.com/e7fa5d05ef7806419b4897ecc668a045.png)
